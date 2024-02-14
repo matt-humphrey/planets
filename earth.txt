@@ -1,2 +1,3 @@
 Earth seems like the best option.
 a different conflicting line
+create new conflicting change
